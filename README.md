@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaitanya698, I am a QA Guy with lot of intrest towards Python Programming
+- 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I’m @chaitanya698, I am a QA Guy with lot of intrest towards Python Programming
 - 👀 I’m interested in Python, Machine Learning, Data science , Automation Testing 
 - 🌱 I’m currently taking baby steps towards ML and DS 
 - 💞️ I’m looking to collaborate on Python Projects, Automation Projects
